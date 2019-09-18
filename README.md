@@ -14,3 +14,5 @@ Requirements:
   After installing these setup ntlk with all the packages using:
     import nltk, 
     nltk.download()
+  
+  Make sure you have all your data in the [dbot/data/data.json file]
