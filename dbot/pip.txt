@@ -1,0 +1,7 @@
+all pip modules:
+    nltk
+    chatterbot
+    chatterbot-corpus
+    discord-py
+PS:
+    others come along with these packages

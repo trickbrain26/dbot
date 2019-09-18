@@ -1,0 +1,8 @@
+{
+  "id": your bots id,
+  "token": your bots token,
+  "perm": your bots permission level,
+  "username": your username,
+  "userid": your user id,
+  "command": what to start commands with ex. "$"
+}
