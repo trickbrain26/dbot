@@ -11,6 +11,6 @@ Requirements:
   pip install chatterbot-corpus, 
   pip install discord-py
   
-  After installing these setup ntlk will all the packages using:
+  After installing these setup ntlk with all the packages using:
     import nltk, 
     nltk.download()
